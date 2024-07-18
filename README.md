@@ -36,7 +36,7 @@ To get started with the WhatsApp Chat Analyzer, you need an exported WhatsApp ch
 
 Clone this repository using Git:
 ```
-git clone https://github.com/anton325/whatsapp-chat-analyzer.git
+git clone https://github.com/anton325/WhatsAppAnalyzer.git
 cd whatsapp-chat-analyzer
 ```
 
