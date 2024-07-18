@@ -2,6 +2,4 @@ test.py
 __pycache__
 .DS_Store
 output.pdf
-chats
-chats_processed
 anton.py
